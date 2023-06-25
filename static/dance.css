@@ -66,7 +66,7 @@ a:hover {
     width: 235px;
     height: 110px;
     top: 40%;
-    margin-top: 195px;
+    margin-top: 295px;
     position: absolute;
     left: -108px;
     animation: arrow 16s 1;
@@ -76,7 +76,7 @@ a:hover {
     position: absolute;
     left: 130px;
     top: 40%;
-    margin-top: 218px;
+    margin-top: 311px;
     animation: logo 16s 1;
 }
 
